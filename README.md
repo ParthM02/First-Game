@@ -3,6 +3,7 @@
 ## Description
 This is my first computer game that I have created but it doesn't really have a name so it's just called "First Game".
 This app is coded with 100% Java using knowledge that I've accumulated from my classes and other means of learning.
+All the code has comments as to why each line of code was written and its purpose.
 
 ## Installation
 To install, simply download the .jar file.
