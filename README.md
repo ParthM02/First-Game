@@ -54,7 +54,7 @@ Assets used as images for the game may not be original and may have been repurpo
 The flappy bird mini-game is not my original idea, I simply recreated the game myself.
  
 ## License
-This project is not licensed and therefore cannot be copied or modified without my permission.
+Don't have a license yet, will put one in the future.
  
 ## Project Status
 This project is complete and development has stopped completely.
